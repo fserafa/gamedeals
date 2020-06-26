@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gamedeals/static/css/main.d1b05096.chunk.css",
+    "main.js": "/gamedeals/static/js/main.f74f0267.chunk.js",
+    "main.js.map": "/gamedeals/static/js/main.f74f0267.chunk.js.map",
+    "runtime-main.js": "/gamedeals/static/js/runtime-main.9309a223.js",
+    "runtime-main.js.map": "/gamedeals/static/js/runtime-main.9309a223.js.map",
+    "static/css/2.ace36aee.chunk.css": "/gamedeals/static/css/2.ace36aee.chunk.css",
+    "static/js/2.0867bb30.chunk.js": "/gamedeals/static/js/2.0867bb30.chunk.js",
+    "static/js/2.0867bb30.chunk.js.map": "/gamedeals/static/js/2.0867bb30.chunk.js.map",
+    "index.html": "/gamedeals/index.html",
+    "precache-manifest.bbb11a189e9a97baf2cb42fdf68893a6.js": "/gamedeals/precache-manifest.bbb11a189e9a97baf2cb42fdf68893a6.js",
+    "service-worker.js": "/gamedeals/service-worker.js",
+    "static/css/2.ace36aee.chunk.css.map": "/gamedeals/static/css/2.ace36aee.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/gamedeals/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0867bb30.chunk.js.LICENSE.txt": "/gamedeals/static/js/2.0867bb30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9309a223.js",
+    "static/css/2.ace36aee.chunk.css",
+    "static/js/2.0867bb30.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f74f0267.chunk.js"
+  ]
+}
